@@ -1,0 +1,38 @@
+# Maven target directory
+/target/
+
+# IDE specific files (Eclipse, IntelliJ, etc.)
+/.classpath
+/.project
+/.settings/
+
+# Compiled bytecode
+*.class
+
+# Logs
+*.log
+
+# Maven build metadata, deployment directories
+maven-archiver/
+surefire-reports/
+.failsafe/
+
+# IntelliJ IDEA specific files
+*.iml
+.idea/
+
+# Eclipse specific files
+*.classpath
+*.project
+.settings/
+
+# NetBeans specific files
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbactions.xml
+/nb-configuration.xml
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
